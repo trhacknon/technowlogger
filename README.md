@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PushpenderIndia/technowlogger/blob/master/img/technowlogger-logo.png" alt="TechNowLogger Logo" width=200 height=200/>
+  <img src="https://github.com/trhacknon/technowlogger/blob/master/img/technowlogger-logo.png" alt="TechNowLogger Logo" width=200 height=200/>
 </p>
 
 <h1 align="center">TechNowLogger</h1>
@@ -7,19 +7,19 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
   </a>
-  <a href="https://github.com/PushpenderIndia/technowhorse/blob/master/LICENSE">
+  <a href="https://github.com/trhacknon/technowhorse/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/PushpenderIndia/technowhorse/releases">
+  <a href="https://github.com/trhacknon/technowhorse/releases">
     <img src="https://img.shields.io/badge/Release-1.9-blue.svg">
   </a>
-    <a href="https://github.com/PushpenderIndia/technowhorse">
+    <a href="https://github.com/trhacknon/technowhorse">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/PushpenderIndia/technowlogger/blob/master/img/hacker-gif.gif" alt="Hacker GIF" width=200 height=200/>
+  <img src="https://github.com/trhacknon/technowlogger/blob/master/img/hacker-gif.gif" alt="Hacker GIF" width=200 height=200/>
 </p>
              
                         This small python script can do really awesome work.
@@ -99,7 +99,7 @@ On **30 May 2022**, Google has **removed less secure apps feature**, so instead 
 $ cd /opt/
 
 # Clone this repository
-$ git clone https://github.com/PushpenderIndia/technowlogger.git
+$ git clone https://github.com/trhacknon/technowlogger.git
 
 # Navigate to technowlogger folder
 $ cd technowlogger
