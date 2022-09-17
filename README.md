@@ -7,13 +7,13 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
   </a>
-  <a href="https://github.com/trhacknon/technowhorse/blob/master/LICENSE">
+  <a href="https://github.com/trhacknon/technowlogger/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/trhacknon/technowhorse/releases">
+  <a href="https://github.com/trhacknon/technowlogger/releases">
     <img src="https://img.shields.io/badge/Release-1.9-blue.svg">
   </a>
-    <a href="https://github.com/trhacknon/technowhorse">
+    <a href="https://github.com/trhacknon/technowlogger">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
